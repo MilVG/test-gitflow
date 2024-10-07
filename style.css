@@ -1,3 +1,22 @@
 h1 {
   color: greenyellow;
 }
+
+.card {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: orange;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 10%;
+  border: solid 3px;
+  border-color: blue;
+}
+
+.text-card {
+  padding: 5px;
+  text-align: center;
+}
